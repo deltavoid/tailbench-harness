@@ -1,0 +1,5 @@
+
+*.o
+
+xapian_networked_client
+xapian_networked_server
