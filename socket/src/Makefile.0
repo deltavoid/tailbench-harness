@@ -1,0 +1,7 @@
+
+main : *.cpp *.h
+	g++ -o main *.cpp -lpthread
+
+.PHONY : clean
+clean :
+	rm main
